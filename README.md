@@ -1,14 +1,8 @@
-┳┳   •  ┓   
+![Barreira](img.png)
 
-┃┃┏┳┓┓┏┓┣┓┏┓
-
-┗┛┛┗┗┗┛┗┛┗┗┛
-            
 # ⭐ About Me:
-Studying Software engeneering in Universidade do Minho, Portugal.
-
+Studying Software engeneering at Universidade do Minho, Portugal.
 My favorite programming languages are C and Java.
-
 Currently learning Python and C#.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-amg) 
