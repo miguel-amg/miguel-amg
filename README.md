@@ -1,4 +1,4 @@
-# ⭐ About Me:
+# ⭐ About Me
 Studying Software engeneering at Universidade do Minho, Portugal.
 
 My favorite programming languages are C and Java.
@@ -8,7 +8,7 @@ Currently learning Python, C# and c++.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-amg) 
 [![GitHub Thaiane](https://img.shields.io/github/followers/miguel-amg?label=follow&style=social)](https://github.com/miguel-amg)
 
-# 💻 Learning:
+## 🎓 Learning
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
