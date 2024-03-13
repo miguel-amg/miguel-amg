@@ -3,7 +3,15 @@ Studying Software engeneering at Universidade do Minho, Portugal.
 
 My favorite programming languages are C and Java.
 
-Currently learning Python, C# and C++.
+**Currently learning these languages:** Python, C# and C++.
+
+**Currently studying:**
+- Machine learning
+- Computer graphics
+- Human–computer interaction
+- Web engineering
+- Programming language theory
+- Information systems security (INFOSEC)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-amg) 
 [![GitHub Thaiane](https://img.shields.io/github/followers/miguel-amg?label=follow&style=social)](https://github.com/miguel-amg)
