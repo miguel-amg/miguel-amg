@@ -1,8 +1,6 @@
 # ⭐ About Me
 Studying Software engeneering at Universidade do Minho, Portugal.
 
-My favorite programming languages are C and Java.
-
 **Currently learning these languages:** Python, C# and C++.
 
 **Currently studying:**
