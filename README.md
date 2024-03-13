@@ -1,8 +1,6 @@
 # ⭐ About Me
 Studying Software engeneering at Universidade do Minho, Portugal.
 
-**Currently learning these languages:** Python, C# and C++.
-
 **Currently studying:**
 - Machine learning
 - Computer graphics
