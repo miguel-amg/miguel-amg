@@ -1,4 +1,4 @@
-![Logo](miguel.png)
+<img src="miguel.png" alt="Texto Alternativo" width="500" height="300">
 
 Studying Software engeneering at Universidade do Minho, Portugal.
 
