@@ -1,4 +1,4 @@
-<img src="miguel.png" alt="Texto Alternativo" width="500" height="300">
+<img src="miguel.png" alt="Logo" width="1000" height="345">
 
 Studying Software engeneering at Universidade do Minho, Portugal.
 
