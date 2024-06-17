@@ -1,4 +1,6 @@
-<img src="miguel.png" alt="Logo" width="800" height="276">
+<div style="text-align: center;">
+  <img src="miguel.png" alt="Logo" width="800" height="276">
+</div>
 
 Studying Software engeneering at Universidade do Minho, Portugal.
 
