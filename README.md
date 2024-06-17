@@ -3,7 +3,7 @@
 </div>
 
 
-#About me:
+# About me:
 Studying Software engeneering at Universidade do Minho, Portugal.
 
 **Currently studying:**
