@@ -2,7 +2,8 @@
   <img src="miguel.png" alt="Logo" width="800" height="276">
 </div>
 
-**About me:**
+
+#About me:
 Studying Software engeneering at Universidade do Minho, Portugal.
 
 **Currently studying:**
