@@ -1,5 +1,5 @@
 # ⭐ About Me
-![Logo](migul.png)
+![Logo](miguel_new.png)
 
 Studying Software engeneering at Universidade do Minho, Portugal.
 
