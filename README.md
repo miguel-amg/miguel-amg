@@ -6,9 +6,9 @@ Studying Software engeneering at Universidade do Minho, Portugal.
 
 # Knowledge - learning:
 
-| Category               | Skills                                  |
-|------------------------|-----------------------------------------|
-| **Programming Languages** | Java, C, Haskell, Python              |
+| Category               | Skills                                     |
+|------------------------|---------------------------------------------|
+| **Programming Languages** | Java, C, Haskell, Python, Prolog              |
 | **Web**                | HTML, CSS, JavaScript, Pug              |
 | **Scripting Languages** | Batch                                   |
 | **Tools**              | OpenGL, Knime, Docker, Git              |
