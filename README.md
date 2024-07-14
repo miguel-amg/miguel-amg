@@ -1,5 +1,6 @@
 # About me:
-Studying Software engeneering at Universidade do Minho, Portugal.
+Followed my dreams and got a Bachelor’s Degree in Software Engineering at Universidade do Minho.
+Here is a list of some of the skills that i learned:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-amg) 
 [![GitHub Thaiane](https://img.shields.io/github/followers/miguel-amg?label=follow&style=social)](https://github.com/miguel-amg)
