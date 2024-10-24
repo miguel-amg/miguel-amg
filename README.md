@@ -1,7 +1,7 @@
 # About me:
 Followed my dreams and got a Bachelor’s Degree in Software Engineering at Universidade do Minho.
 
-I am now trying to get a Master's Degree in Software Engineering.
+I am now trying to get a Master's Degree.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-amg) 
 [![GitHub Thaiane](https://img.shields.io/github/followers/miguel-amg?label=follow&style=social)](https://github.com/miguel-amg)
