@@ -14,7 +14,7 @@ Here is a list of some of the skills that i learned:
 | **Programming Languages** | Java, C, Haskell, Python, Prolog              |
 | **Web**                | HTML, CSS, JavaScript, Pug              |
 | **Scripting Languages** | Batch                                   |
-| **Tools**              | OpenGL, Knime, Docker, Git              |
+| **Tools**              | OpenGL, Knime, Docker, Git, OpenMP        |
 | **Frameworks**         | .NET, Express                           |
 | **Others**             | Regex                                   |
 
