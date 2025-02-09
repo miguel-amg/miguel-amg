@@ -15,7 +15,7 @@ Here is a list of some of the skills that i learned:
 | **Web**                | HTML, CSS, JavaScript, Pug              |
 | **Scripting Languages** | Batch                                   |
 | **Tools**              | OpenGL, Knime, Docker, Git, OpenMP        |
-| **Frameworks**         | .NET, Express, React                    |
+| **Frameworks**         | .NET, Express, React.js                    |
 | **Others**             | Regex                                   |
 
 
