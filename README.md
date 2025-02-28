@@ -9,6 +9,9 @@ I am now trying to get a Master's Degree.
 # Knowledge - learning:
 Here is a list of some of the skills that i learned:
 
+
+| Bachelors Degree |
+|------------------------|---------------------------------------------|
 | Category               | Skills                                     |
 |------------------------|---------------------------------------------|
 | **Programming Languages** | Java, C, Haskell, Python, Prolog              |
