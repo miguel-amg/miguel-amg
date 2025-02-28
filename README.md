@@ -9,8 +9,8 @@ I am now trying to get a Master's Degree.
 # Knowledge - learning:
 Here is a list of some of the skills that i learned:
 
-
-|**Bachelors Degree**    | **Skills**                                 |
+## Bachelors Degree
+|**Category**    | **Skills**                                 |
 |------------------------|---------------------------------------------|
 | **Programming Languages** | Java, C, Haskell, Python, Prolog         |
 | **Web**                | HTML, CSS, JavaScript, Pug                 |
@@ -19,6 +19,7 @@ Here is a list of some of the skills that i learned:
 | **Frameworks**         | .NET, Express, React.js                    |
 | **Others**             | Regex                                      |
 
+## Master's Degree
 | **Desenvolvimento, Validação e Manutenção de Software (SDVM) ** | **Skills**                               |
 |------------------------|---------------------------------------------|
 | **Performance Analysis** | Intel RAPL  |
