@@ -24,7 +24,8 @@ Here is a list of some of the skills that i learned:
 ### Software Development, Validation and Maintenance (SDVM)
 | **Category** | **Skills** |
 |------------------------|---------------------------------------------|
-| **Performance Analysis** | Intel RAPL  |
+| **Software Maintenance and Evolution** | Performance analysis using Intel RAPL  |
+| **Software Development Topics** | Parsing using haskell |
 
 ### Cryptography and Information Security (CSI)
 | **Category** | **Skills** |
