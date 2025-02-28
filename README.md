@@ -22,12 +22,12 @@ Here is a list of some of the skills that i learned:
 ## Master's Degree
 
 ### Software Development, Validation and Maintenance (SDVM)
-| ** Category ** | **Skills** |
+| **Category** | **Skills** |
 |------------------------|---------------------------------------------|
 | **Performance Analysis** | Intel RAPL  |
 
 ### Cryptography and Information Security (CSI)
-| ** Category ** | **Skills** |
+| **Category** | **Skills** |
 |------------------------|---------------------------------------------|
 | **Cryptography**      | AES, RSA, Hashing Algorithms |
 | **Security Protocols** | Digital Signatures          |
