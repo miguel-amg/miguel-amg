@@ -20,11 +20,14 @@ Here is a list of some of the skills that i learned:
 | **Others**             | Regex                                      |
 
 ## Master's Degree
-| **Desenvolvimento, Validação e Manutenção de Software (SDVM) ** | **Skills**                               |
+
+### Software Development, Validation and Maintenance (SDVM)
+| ** Category ** | **Skills** |
 |------------------------|---------------------------------------------|
 | **Performance Analysis** | Intel RAPL  |
 
-| **Criptografia e Segurança da Informação (CSI)** | **Skills** |
+### Cryptography and Information Security (CSI)
+| ** Category ** | **Skills** |
 |------------------------|---------------------------------------------|
 | **Cryptography**      | AES, RSA, Hashing Algorithms |
 | **Security Protocols** | Digital Signatures          |
