@@ -10,15 +10,21 @@ I am now trying to get a Master's Degree.
 Here is a list of some of the skills that i learned:
 
 
-| Bachelors Degree |
+|**Bachelors Degree**    | **Skills**                                 |
 |------------------------|---------------------------------------------|
-| Category               | Skills                                     |
-|------------------------|---------------------------------------------|
-| **Programming Languages** | Java, C, Haskell, Python, Prolog              |
-| **Web**                | HTML, CSS, JavaScript, Pug              |
-| **Scripting Languages** | Batch                                   |
-| **Tools**              | OpenGL, Knime, Docker, Git, OpenMP        |
+| **Programming Languages** | Java, C, Haskell, Python, Prolog         |
+| **Web**                | HTML, CSS, JavaScript, Pug                 |
+| **Scripting Languages** | Batch                                      |
+| **Tools**              | OpenGL, Knime, Docker, Git, OpenMP         |
 | **Frameworks**         | .NET, Express, React.js                    |
-| **Others**             | Regex                                   |
+| **Others**             | Regex                                      |
 
+| **Desenvolvimento, Validação e Manutenção de Software (SDVM) ** | **Skills**                               |
+|------------------------|---------------------------------------------|
+| **Performance Analysis** | Intel RAPL  |
 
+| **Criptografia e Segurança da Informação (CSI)** | **Skills** |
+|------------------------|---------------------------------------------|
+| **Cryptography**      | AES, RSA, Hashing Algorithms |
+| **Security Protocols** | Digital Signatures          |
+| **Programming**       | Python using the crypthography library |
