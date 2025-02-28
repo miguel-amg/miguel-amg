@@ -28,8 +28,8 @@ Here is a list of some of the skills that i learned:
 | **Software Development Topics** | Parsing using haskell |
 
 ### Cryptography and Information Security (CSI)
-| **Category** | **Skills** |
-|------------------------|---------------------------------------------|
-| **Cryptography**      | AES, RSA, Hashing Algorithms |
-| **Security Protocols** | Digital Signatures          |
-| **Programming**       | Python using the crypthography library |
+| **Category**          | **Skills**                                  |
+|----------------------|---------------------------------------------|
+| **Cryptography**      | AES, RSA, Hashing Algorithms               |
+|                      | **Security Protocols:** Digital Signatures  |
+|                      | **Programming:** Python using the cryptography library |
