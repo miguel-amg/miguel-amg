@@ -30,10 +30,13 @@ Here is a list of some of the skills that i learned:
 | **Software Development Topics** | Parsing using haskell |
 
 ### Cryptography and Information Security (CSI)
-| **Category**         | **Skills**                                   |
-|----------------------|----------------------------------------------|
-| **Cryptography**     | **Ciphers:** AES, RSA                       |
-|                      | **Hashing Algorithms:** SHAKE-256    |
-|                      | **Security Protocols:** Digital Signatures  |
-|                      | **Programming:** Python using the cryptography library |
+
+| **Category**         | **Skills**                                                                 |
+|----------------------|----------------------------------------------------------------------------|
+| **Cryptography**     | **Ciphers:** ElGamal                                                       |
+|                      | **Hashing Algorithms:** SHAKE-256, SHA-2                                   |
+|                      | **Security Protocols:** Digital Signatures (edDSA), Oblivious Transfer     |
+|                      | **Elliptic Curves:** Edwards Curves                                        |
+|                      | **Programming:** Python using the cryptography library                     |
+|----------------------|----------------------------------------------------------------------------|
 
