@@ -38,5 +38,4 @@ Here is a list of some of the skills that i learned:
 |                      | **Security Protocols:** Digital Signatures (edDSA), Oblivious Transfer     |
 |                      | **Elliptic Curves:** Edwards Curves                                        |
 |                      | **Programming:** Python using the cryptography library                     |
-|----------------------|----------------------------------------------------------------------------|
 
