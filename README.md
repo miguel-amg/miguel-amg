@@ -34,7 +34,7 @@ Here is a list of some of the skills that i learned:
 | **Category**         | **Skills**                                                                 |
 |----------------------|----------------------------------------------------------------------------|
 | **Cryptography**     | **Ciphers:** ElGamal                                                       |
-|                      | **Hashing Algorithms:** SHAKE-256, SHA-2                                   |
+|                      | **Hashing Algorithms:** SHAKE-256                                  |
 |                      | **Security Protocols:** Digital Signatures (edDSA), Oblivious Transfer     |
 |                      | **Elliptic Curves:** Edwards Curves                                        |
 |                      | **Programming:** Python using the cryptography library                     |
